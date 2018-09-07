@@ -6,7 +6,7 @@
 
 ![Resume Preview](https://user-images.githubusercontent.com/11136682/42416902-19bcf4c4-8240-11e8-87d8-e26598fb2b19.PNG)
 
-**[View Live Preview](https://rithinsuryasai.github.io/)**
+**[View Live Preview](https://rithinsuryasainadh.github.io/)**
 
 ## Status
 
